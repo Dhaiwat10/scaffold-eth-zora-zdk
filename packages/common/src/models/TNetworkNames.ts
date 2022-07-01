@@ -1,0 +1,18 @@
+export type TNetworkNames =
+  | 'localhost'
+  | 'mainnet'
+  | 'kovan'
+  | 'rinkeby'
+  | 'ropsten'
+  | 'goerli'
+  | 'xdai'
+  | 'polygon'
+  | 'mumbai'
+  | 'rinkebyArbitrum'
+  | 'arbitrum'
+  | 'kovanOptimism'
+  | 'optimism'
+  | 'fujiAvalanche'
+  | 'avalanche'
+  | 'testnetFantom'
+  | 'fantom';
